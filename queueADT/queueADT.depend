@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1629998546 source:c:\users\admin\desktop\queueadt\queueadt1.cpp
+	"queueADT1.h"
+
+1629998546 c:\users\admin\desktop\queueadt\queueadt1.h
+
+1630000906 source:c:\users\admin\desktop\code\sourcecode\queueadt1.cpp
+	"queueADT1.h"
+
+1630000276 c:\users\admin\desktop\code\sourcecode\queueadt1.h
+	"../sourcecode/arrayADT1.h"
+
+1629988655 source:c:\users\admin\desktop\code\sourcecode\arrayadt1.cpp
+	"arrayADT1.h"
+
+1629988239 c:\users\admin\desktop\code\sourcecode\arrayadt1.h
+	<iostream>
+
+1630000732 source:c:\users\admin\desktop\queueadt\main.cpp
+	<iostream>
+	"../code/sourcecode/queueADT1.h"
+

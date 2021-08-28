@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630133551 source:c:\users\admin\desktop\code\sourcecode\sllnode.cpp
+	"SllNode.h"
+
+1630133551 c:\users\admin\desktop\code\sourcecode\sllnode.h
+
+1630133551 source:c:\users\admin\desktop\slladt\main.cpp
+	<iostream>
+	"../code/sourcecode/SllNode.h"
+

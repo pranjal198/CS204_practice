@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629960861 source:c:\users\admin\desktop\arrayincpp\src\arrayadt1.cpp
+	"arrayADT1.h"
+	<iostream>
+
+1629960792 c:\users\admin\desktop\arrayincpp\include\arrayadt1.h
+	<iostream>
+
+1629956568 source:c:\users\admin\desktop\arrayincpp\main.cpp
+	<iostream>
+	"arrayADT1.h"
+

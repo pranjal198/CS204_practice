@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1630074977 source:c:\users\admin\desktop\code\sourcecode\circularqueue.cpp
+	"circularQueue.h"
+
+1630074977 c:\users\admin\desktop\code\sourcecode\circularqueue.h
+	"../sourcecode/arrayADT1.h"
+
+1629988239 c:\users\admin\desktop\code\sourcecode\arrayadt1.h
+	<iostream>
+
+1630073477 source:c:\users\admin\desktop\circularqueueadt\main.cpp
+	<iostream>
+	"../code/sourcecode/circularQueue.h"
+
+1629988655 source:c:\users\admin\desktop\code\sourcecode\arrayadt1.cpp
+	"arrayADT1.h"
+
