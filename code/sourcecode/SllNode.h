@@ -1,6 +1,6 @@
 #ifndef SLLNODE_H
 #define SLLNODE_H
-
+using namespace std;
 
 class SllNode
 {

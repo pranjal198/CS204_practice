@@ -1,0 +1,5 @@
+Enter the size of array:Array element at index 0 is 0
+Array element at index 1 is 1000
+Array element at index 2 is 2000
+Array element at index 3 is 3000
+Array element at index 4 is 4000

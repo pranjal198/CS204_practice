@@ -8,3 +8,19 @@
 	<iostream>
 	"../code/sourcecode/SllNode.h"
 
+1630133551 source:c:\users\admin\desktop\cs204_practice\code\sourcecode\sllnode.cpp
+	"SllNode.h"
+
+1630134866 c:\users\admin\desktop\cs204_practice\code\sourcecode\sllnode.h
+
+1630145236 source:c:\users\admin\desktop\cs204_practice\slladt\main.cpp
+	<iostream>
+	"../code/sourcecode/SinglyLinkedList.h"
+
+1630144938 source:c:\users\admin\desktop\cs204_practice\code\sourcecode\singlylinkedlist.cpp
+	"SinglyLinkedList.h"
+
+1630144938 c:\users\admin\desktop\cs204_practice\code\sourcecode\singlylinkedlist.h
+	"../sourcecode/SllNode.h"
+	<iostream>
+
